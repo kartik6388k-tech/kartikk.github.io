@@ -170,7 +170,7 @@ Other routes: `GET /` (serves the app), `GET /health`, `GET /api/config` (model 
 
 <table>
 <tr>
-<td><img src="val_batch2_pred.jpg" width="400"/></td>
+<td><img src="val_batch2_labels.jpg" width="400"/></td>
 <td><img src="confusion_matrix.png" width="400"/></td>
 </tr>
 <tr>
