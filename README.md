@@ -171,7 +171,7 @@ Other routes: `GET /` (serves the app), `GET /health`, `GET /api/config` (model 
 <table>
 <tr>
 <td><img src="results/plot.png" width="400"/></td>
-<td><img src="results/confusion_matrix_normalized.png" width="400"/></td>
+<td><img src="results/confusion_matrix.png" width="400"/></td>
 </tr>
 <tr>
 <td align="center">Loss / precision / recall / mAP over training</td>
